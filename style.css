@@ -1,0 +1,130 @@
+#navbarmain{
+    
+}
+#navbar ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    
+}
+#heroimage{
+    border-radius: 10px;
+}
+#main{
+    display: flex;
+    gap: 20px;
+
+}
+.img{
+    display: flex;
+}
+.sectiona{
+    display: flex;
+    gap: 30px;
+}
+#sectionb{
+    display: flex;
+    gap: 30px;
+}
+#main2{
+    display: flex;
+    gap: 20px;
+
+}
+#heroimage{
+    width: 700px;
+    height: 850px;
+}
+#two{
+    display: flex;
+
+}
+#store{
+    display: flex;
+    gap: 10px;
+}
+.imageb{
+    width: 150px;
+    height: 150px;
+}
+.imagec{
+    width: 150px;
+    height: 150px;
+}
+#plant{
+    display: flex;
+}
+#section{
+    display: flex;
+}
+.rel{
+    width: 250px;
+    height: 240px;
+}
+#allplant{
+    display: flex;
+    flex-wrap: wrap;
+}
+#sale{
+    display: flex;
+    display: 20px;
+}
+#succulent{
+    display: flex;
+    gap: 20px;
+}
+#newarrival{
+    width: 600px;
+    height: 600px;
+}
+#feature{
+    text-align: center;
+    padding-top: 20px;
+}
+#globe{
+    display: flex;
+    gap: 15px;
+}
+#price{
+    text-align: center;
+    background-image: url();
+}
+.fur{
+    width: 250px;
+    height: 250px;
+}
+#aliquam{
+    display: flex;
+    gap: 20px;
+}
+#auctor{
+    display: flex;
+    gap: 20px;
+}
+#aliquame{
+    display: flex;
+    gap: 20px;
+}
+#drought{
+    display: flex;
+    gap: 20px;
+}
+.cost{
+  width: 300px; 
+  height: 290px; 
+}
+#project{
+    display:flex ;
+    gap: 20px;
+}
+
+
+@media all and (max-width:1080){
+    #navbar{
+        display: flex;
+        gap: 5px;
+        list-style: none;
+        font-size: xx-small;
+        width: 30%;
+    }
+}
