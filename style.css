@@ -9,6 +9,14 @@
 }
 #heroimage{
     border-radius: 10px;
+    background-image: url(image/background.jpg);
+     background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    min-width: 700px;
+    min-height:550px ;
+
+
 }
 #main{
     display: flex;
@@ -116,6 +124,9 @@
 #project{
     display:flex ;
     gap: 20px;
+}
+#testimonies{
+    text-align: center;
 }
 
 
